@@ -1,2 +1,3 @@
  
-this is my first git file.
+Sorry this is my second git file.
+Added more text and changed it here.
